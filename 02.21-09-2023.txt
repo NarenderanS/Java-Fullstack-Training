@@ -11,4 +11,7 @@ Some css properties:
             1 nth chid selectors
             2 padding
             3 margin
-            
+            4.flex
+            5.justify-Content
+            6.align-items
+            7.align-Content
