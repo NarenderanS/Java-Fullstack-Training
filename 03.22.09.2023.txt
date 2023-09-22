@@ -1,0 +1,8 @@
+Day 3
+Today I created and hosted an webpage. 
+
+div,nav- used to divided the page Content
+To link css  use link
+Avoid giving negative values to margin and padding. It may add the page scrolling.
+My site link: https://narenderans.github.io/Netflix/Netflix_Trial.html 
+While hosting the page we need to provide the html fill name as index.html. Otherwise we need to manually enter the fill name at the end.
