@@ -1,0 +1,14 @@
+HTML tags and CSS selectors
+--------------------------------------------
+
+CSS selctors are:
+        1 Id selectors      
+        2 Class selectors
+        3 Element selector
+        4 Attribute selectors
+
+Some css properties:
+            1 nth chid selectors
+            2 padding
+            3 margin
+            
