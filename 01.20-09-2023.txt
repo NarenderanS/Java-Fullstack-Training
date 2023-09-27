@@ -23,30 +23,17 @@ Metrics - The health check of the server is done by comparing the log and the se
 Example : Consider whatsapp is sending an request. First the request is sent to the load balancer and then to 
 the server and the response is generated from the server.
 
-
 Scenerio : OTPs in whatsapp
 --------------------------
 If a person books a ticket in redbus or orders something in meesho the OTP is generated and sent to the person's 
 whatsapp number. In this kind of things the redbus or the meesho server communicates with the whatsapp server.
 
- 
-
- 
-
 Process involved in developing and deploying an application:
 ------------------------------------------------------------
 Coding --> Build and deploy --> Server --> Database
 
- 
-
- 
-
 How servers are commnicated?
 Servers are communicated using the IP address.
-
- 
-
- 
 
 TCP vs UDP
 ----------
@@ -55,37 +42,23 @@ TCP - Transmission Control Protocol
 2. Incase of any data loss data can be retrived
 3. Three way hand shaking
 
- 
-
 UDP - User Datagram Protocol
 1. Fast 
 2. Incase of any data loss data cannot be retrived
 3. Example : Video Call
 
- 
-
 How Data is transferred in packets?
 A packet Consists of the header information like the size of the packet and the order.
 
- 
-
- 
-
 API 
----
+------------------------------
 API - Application Programming Interface
 An Api is used to communicate between two software components
-
- 
 
 Types of API
 1. REST - Representational State Transfer
 2. GraphQL
 3. gRPC
-
- 
-
- 
 
 HTTP Methods:
 ------------
@@ -94,31 +67,20 @@ HTTP Methods:
 3. PUT 
 4. DELETE
 
- 
-
- 
-
 DNS
----
+--------------------------------------------
 Domain Name System 
 The DNS is used to get the IP using the name.
 
- 
-
 Example: Google.com --> Google IP
 
- 
-
- 
-
 Git vs github
--------------
+------------------------------------------------
 Git is used for the local user purpose to develop and make changes in the code.
 github is used to commit and push the project that the person developed and to make the changes live in the github.
  
-
 CDN 
----
+----------------------------------------------
 Content Delivery Network is used to communicated with the main server via multiple servers.
 
  
