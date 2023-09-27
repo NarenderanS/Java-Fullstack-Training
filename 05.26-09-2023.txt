@@ -28,7 +28,7 @@ conditional operator--> 1=="1"-->true
 1==="1"-->false(data type check
  
  for
- ---------------------------------------------------------------
+ ----------------------------------------------------------------
 for(let k of keys)->single array
 for(let kk in keys)-->keys /values but it display only keys
 back tick(``)-->console.log(`${name} +is ${age}+years old)
