@@ -1,3 +1,4 @@
 Javascript
 --------------------------------------------
-Recalling all the Content which we saw yesterday and started to 
+Recalling all the Content which we saw yesterday and started to work with it.
+
