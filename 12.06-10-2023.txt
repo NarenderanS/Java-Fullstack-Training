@@ -1,0 +1,11 @@
+Tasks Completed
+---------------
+    *E-commerce
+    *Cart with quantity increase and decrease
+
+Javascript concepts
+-------------------
+    *fetch, then 
+    *async and await with examples 
+    *promises 
+    *promise all()
