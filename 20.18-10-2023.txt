@@ -3,7 +3,7 @@ Angular Concepts
 Code changes - 1. Minimum API Calls 
                2. Flow/Calls for services and components 
                3. Add to cart function
-
+ 
 Tasks 
 -----
 1. Completed the E-commerce application using angular and add routing for the following requirements.
