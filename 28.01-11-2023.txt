@@ -19,10 +19,10 @@ Java 8 concepts
         1. Intermediate Operators - It returns stream and does not provide end result.
             -> Filter()
             -> Map()
+            -> FlatMap()
             -> Distinct() 
             -> Sorted()
          2. Terminal Operators - It does not return stream but provides end result.
-            -> Reduce() 
             -> Count() 
             -> Collect()
             -> Min()
