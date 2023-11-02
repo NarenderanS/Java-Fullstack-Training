@@ -37,7 +37,7 @@ SQL Concepts
  
 Task 
 ----
-    *To create ERR diagram using queries in SQL for E-commerce application for the following requirements 
+    *To create EER diagram using queries in SQL for E-commerce application for the following requirements 
         - Role -> admin, user 
         - User 
         - Category 
