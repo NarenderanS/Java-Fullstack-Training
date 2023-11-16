@@ -1,0 +1,15 @@
+Online Food Delivery Service
+----------------------------
+    *Continued with the backend part of the project 
+        -> Controller
+            - Restaurant Product end points 
+                1. GET 
+                2. POST 
+                3. PUT
+                4. DELETE 
+            - Restaurant Category end points
+                1. GET 
+                2. POST 
+                3. PUT
+                4. DELETE 
+         
