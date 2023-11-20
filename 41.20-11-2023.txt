@@ -1,0 +1,14 @@
+Online Food Delivery Service
+----------------------------
+    *Started with the front-end part of the project using angular.
+        - Components 
+            1. Login 
+            2. Register 
+            3. User Home 
+            4. User Cart
+            5. Restaurant Home 
+            6. Navbar
+ 
+        - Added Router to the components for the navigations.
+        - Included the required forms.
+        - Added custom and lottie animations
