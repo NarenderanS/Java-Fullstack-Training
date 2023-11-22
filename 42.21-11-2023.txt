@@ -1,0 +1,10 @@
+Online Food Delivery Service
+----------------------------
+    *Continued with the front end part of the project 
+
+        - Integrated login with the back-end.
+        - Started integrating other parts to the back-end.
+ 
+Topics 
+------
+    *Communication between components.
