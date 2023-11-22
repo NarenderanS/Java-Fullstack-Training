@@ -1,0 +1,9 @@
+Online Food Delivery Service
+----------------------------
+    *Continued with the integration of back end and front end.
+        - Integrated all the GET Methods 
+            -> GET products
+            -> GET category  
+            -> GET restaurant
+            -> GET user 
+ 
