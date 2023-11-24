@@ -1,0 +1,10 @@
+Online Food Delivery Service
+----------------------------
+  *Continued with the integration of back end and 
+        - Integrated all the POST methods.
+            -> POST category 
+            -> Register 
+            -> POST Address 
+ 
+        - Integrated all the DELETE methods.
+            -> DELETE category 
