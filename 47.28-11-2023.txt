@@ -2,4 +2,11 @@ Online Food Delivery Service
 ----------------------------
     *Continued with the integration part of back end and front end  
         -> Completed Cart workflow
+            # Add count for every product
+            # Minus count for every product
+            # Delete cart product
+            # Add delivery address
+            # Choose delivery address
+            
         -> Completed Order workflow
+            
