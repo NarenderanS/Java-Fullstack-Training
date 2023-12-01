@@ -1,0 +1,7 @@
+Online Food Delivery Service
+----------------------------
+    *Continued with the integration part of back end and front end 
+            -> Cart page UI design
+            -> Display User Profile
+            -> Backend user response format changed based on the frontend needs
+            -> Navbar design started
