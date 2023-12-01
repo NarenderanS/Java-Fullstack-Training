@@ -1,0 +1,12 @@
+Online Food Delivery Service
+----------------------------
+    *Continued with the integration part of back end and front end 
+        -> Added Datas 
+        -> Added Lotties in cart & order page
+
+
+Topics Covered
+--------------
+        -> Struts
+        -> Lazy loading
+        -> Custom Form Validation
