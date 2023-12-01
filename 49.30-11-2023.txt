@@ -1,0 +1,13 @@
+Online Food Delivery Service
+----------------------------
+    *Continued with the integration part of back end and front end 
+        -> Restaurant 
+            # role home page
+            # order details page with status update for every orders
+            # Display Profile 
+        
+        -> Admin
+            # Display Category Details 
+            # Display Product Details
+            # Display User Details
+            # Display Restaurant Details
