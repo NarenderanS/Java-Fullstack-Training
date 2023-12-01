@@ -9,4 +9,4 @@ Topics Covered
 --------------
         -> Struts
         -> Lazy loading
-        -> Custom Form Validation
+        -> Custom Validation
